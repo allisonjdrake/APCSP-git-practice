@@ -24,3 +24,14 @@
 #heuristic narrows down the possibilities 
 # (i.e. traveling salesman problem: you're not going to go to the exact opposite side of the country,
 # better go to the closer cities)
+
+
+
+#simulation
+    #fake, good to test and help people get accustomed to randomness (removes bias, makes it more accurate, etc.)
+        #EX: plane simulator to train pilots to do well in many situations
+    #Computers are really bad at being random (they're good at being predictable and do what you tell them to)
+        #they need something to create something random
+            #EX: using something external: true random number generator (translate atmospheric level --> numbers)
+        #or use an algorithm
+            #EX: Pseudo random number generator (can be broken more easily, find the seed)
