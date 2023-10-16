@@ -26,3 +26,6 @@
 #Backtracking
     #builds candidates for possible solutions and gets rid of them when it's determined they are not viable
     #the N-queens problem
+
+
+
