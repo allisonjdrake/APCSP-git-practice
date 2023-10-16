@@ -39,3 +39,5 @@
             #EX: using something external: true random number generator (translate atmospheric level --> numbers)
         #or use an algorithm
             #EX: Pseudo random number generator (can be broken more easily, find the seed)
+
+# 
