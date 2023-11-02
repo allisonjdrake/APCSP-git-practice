@@ -44,3 +44,10 @@
 # 1 0 0 1 0 0 0 0 
 
 # 144 - 128 = 16
+
+Adding binary: 
+  00100101
++ 00010101
+= 00111010
+
+(carry the one when you reach a 2)
