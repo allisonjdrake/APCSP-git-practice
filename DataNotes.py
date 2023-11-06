@@ -1,4 +1,5 @@
 # >>Data Compression
+# Reasons: 1) storage space, 2) transmission speed
 # Like abbreviations: use the least number of bits possible to express something
 
 #     Examples:
