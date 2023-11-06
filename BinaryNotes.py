@@ -45,9 +45,9 @@
 
 # 144 - 128 = 16
 
-Adding binary: 
-  00100101
-+ 00010101
-= 00111010
+# Adding binary: 
+#   00100101
+# + 00010101
+# = 00111010
 
-(carry the one when you reach a 2)
+# (carry the one when you reach a 2)
