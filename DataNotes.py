@@ -36,3 +36,26 @@
 #                     but only allows reconstruction of an approximation of the data
 #     Uses - graphics, audio, video, images
 #     Compresses a lot more
+
+
+# >>ANALOG vs. DIGITAL
+    # Analog = infinite
+    # Digital = finite
+# Sampling: Taking a sample at regular time intervals (reduced infinite --> finite)
+    EX: x^2 graph taking only integers (1,2,3,4,5,6)
+
+# Quantiztion: Reduce continuous amplitude domain into discrete values (ex: values are either 1 or 2 or 3)
+    EX: (0,80) on a graph with only y values of 25, 50, or 75 --> (0,75)
+
+# Binary Encoding: Store a much smaller value that represents the quantized value (ex: 0 or 1)
+    EX: (0,75) becomes 1001 (it is assigned a binary sequence)
+
+# >>DATA STORAGE 
+#     Tabular Dat: table (rows and columns)
+#     Spreadsheets: App for storing/processing tab data
+#     Databases: i.e. SQL (runs functions)
+#         - Count
+#         - Average 
+#         - Min/max 
+#         - Sum
+    
