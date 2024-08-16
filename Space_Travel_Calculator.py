@@ -19,3 +19,5 @@ elif time < 1:
   )
 else:
   print(f'It will take you {time} years to reach your destination!')
+
+#let's see if i still remember how to save things
